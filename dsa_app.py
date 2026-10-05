@@ -226,7 +226,7 @@ with st.sidebar:
         """
         <div style="background-color:#1A365D; padding: 10px; border-radius: 5px; text-align: center; margin-bottom: 15px;">
             <h3 style="color:white; margin:0; font-weight:bold;">Dúvidas?</h3>
-            <p style="color:white; margin:0; font-weight:bold; font-size:0.7rem; white-space:nowrap;">suporte@datascienceacademy.com.br</p>
+            <p style="color:white; margin:0; font-weight:bold; font-size:0.7rem; white-space:nowrap;">aline.abm97@gmail.com</p>
         </div>
         """,
         unsafe_allow_html=True
