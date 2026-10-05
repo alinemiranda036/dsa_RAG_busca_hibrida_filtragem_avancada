@@ -1,0 +1,8 @@
+[
+    {"name": "PlayStation 5", "description": "Console de última geração com suporte a 4k e Ray Tracing.", "category": "Games", "brand": "Sony", "price": 4500, "link": "https://www.amazon.com.br/Sony-PlayStation-Edi%C3%A7%C3%A3o-Digital-Controle/dp/B0GWNKJDCZ", "image": "img/PlayStation_5.png"},
+    {"name": "Xbox Series X", "description": "O console mais poderoso da Microsoft, rápido e compatível com GamePass.", "category": "Games", "brand": "Microsoft", "price": 4200, "link": "https://www.amazon.com.br/Xbox-MSEP200692-X-1TB-Digital/dp/B0DCD9LGHY", "image": "img/Xbox_Series_X.png"},
+    {"name": "MacBook Air M2", "description": "Notebook leve, bateria de longa duração e chip M2 ultra rápido.", "category": "Notebooks", "brand": "Apple", "price": 8000, "link": "https://www.amazon.com.br/2022-Apple-MacBook-laptop-chip/dp/B0DLJG5Z63", "image": "img/MacBook_Air_M2.png"},
+    {"name": "Dell XPS 13", "description": "Notebook Windows premium com tela infinita e alta portabilidade.", "category": "Notebooks", "brand": "Dell", "price": 7500, "link": "https://www.amazon.com.br/Dell-9350-Bluetooth-Thunderbolt-retroiluminado/dp/B0HF6FMJTX", "image": "img/Dell_XPS_13.png"},
+    {"name": "Sony WH-1000XM5", "description": "Fones de ouvido com o melhor cancelamento de ruído do mercado.", "category": "Áudio", "brand": "Sony", "price": 2200, "link": "https://www.amazon.com.br/Sony-WH-1000XM5-cancelamento-otimizador-cristalinas/dp/B09XS7JWHH", "image": "img/Sony_WH-1000XM5.png"},
+    {"name": "JBL Flip 6", "description": "Caixa de som bluetooth portátil e resistente à água.", "category": "Áudio", "brand": "JBL", "price": 600, "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Flip-Vermelha/dp/B09HGPKY7Q", "image": "img/JBL_Flip_6.png"}
+]
